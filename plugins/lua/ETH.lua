@@ -1,5 +1,5 @@
 name="ETH_Price"
-sample="BTC: 101197.03"
+sample="ETH: 3366.03"
 interval=2
 
 local function get_price(symbol)
