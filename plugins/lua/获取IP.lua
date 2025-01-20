@@ -1,5 +1,5 @@
 name="GetIP"
-sample="192.168.100.10 (CN)"
+sample="192.168.100.10(CN)"
 interval=10
 
 local function get_ip_1()
