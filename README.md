@@ -14,5 +14,15 @@
 可以参考原项目[TrafficMonitorLuaPlugin](https://github.com/compilelife/TrafficMonitorLuaPlugin/)目录下的例子。
 
 # 3. 自用lua脚本
-添加了几个自己用的脚本：显示当前网络代理状态、获取当前IP和国家、BTC和ETH当前价格
+
+添加了几个自己用的脚本：
+
+- 显示代理软件[MihomoParty](https://github.com/mihomo-party-org/mihomo-party)当前状态（直连、系统代理、虚拟网卡）
+
+- 获取当前IP和国家（多个API接口获取）
+
+- 虚拟货币当前价格（[币安接口](https://developers.binance.com/docs/zh-CN/binance-spot-api-docs)）
+
+- 联通号码话费流量余额(Cookie获取来自项目[ChinaUnicom](https://github.com/ChinaTelecomOperators/ChinaUnicom/releases))
+
 ![](./Screenshots/PixPin_2025-01-17_12-21-16.png)<br>
